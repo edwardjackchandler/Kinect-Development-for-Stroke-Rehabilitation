@@ -1,0 +1,12 @@
+setJointPositions(first, JointType.HipCenter, hip, pHip);
+                if (hip.withinPositionZ(startingPosition, 0.25))
+                {
+                    calibrate = true;
+                }
+
+                else calibrate = false;
+
+                if (calibrate == true)
+                {
+                    
+                }

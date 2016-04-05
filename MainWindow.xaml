@@ -1,0 +1,34 @@
+﻿<Window x:Class="SkeletalTracking.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect Development for Stroke Rehabilitation"  MaxHeight="720" MaxWidth="1280" Loaded="Window_Loaded"
+        xmlns:my="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers" 
+        Closing="Window_Closing">
+    <Canvas Name="MainCanvas" >
+        <Image Height="1027" Source="Image2.png" Stretch="Fill" Width="353" Canvas.Left="971" Canvas.Top="-130"/>
+        <my:KinectColorViewer Canvas.Left="0" Width="640" Height="480" x:Name="kinectColorViewer1" 
+                              Kinect="{Binding Kinect, ElementName=kinectSensorChooser1}" Loaded="kinectColorViewer1_Loaded" />
+        <Ellipse Canvas.Left="0" Canvas.Top="0" Height="20" x:Name="leftEllipse"  Width="20" Fill="#FF4D298D" Opacity="1" Stroke="White" />
+        <Ellipse Canvas.Left="100" Canvas.Top="0" Fill="#FF2CACE3" Height="20" x:Name="rightEllipse" Width="20" Opacity="1" Stroke="White" />
+        <Ellipse Canvas.Left="150" Canvas.Top="0" Fill="Red" Height="20" x:Name="rightKneeEllipse" Width="20" Opacity="0" Stroke="White" />
+        <Ellipse Canvas.Left="200" Canvas.Top="0" Fill="#FFE3902C" Height="20" x:Name="leftKneeEllipse" Width="20" Opacity="0" Stroke="White" />
+        <Ellipse Canvas.Left="250" Canvas.Top="0" Fill="#FF346142" Height="40" x:Name="headImage" Width="40" Opacity="1" Stroke="White" />
+        <Ellipse Canvas.Left="65" Canvas.Top="15" Fill="BlanchedAlmond" Height="20" x:Name="hipEllipse" Width="20" Opacity="1" Stroke="White" />
+        <Ellipse Canvas.Left="300" Canvas.Top="0" Fill="#FFE3902C" Height="20" x:Name="rightFootEllipse" Width="20" Opacity="0" Stroke="White" />
+        <Ellipse Canvas.Left="350" Canvas.Top="0" Fill="Red" Height="20" x:Name="leftFootEllipse" Width="20" Opacity="0" Stroke="White" />
+        <my:KinectSensorChooser Canvas.Left="451" Canvas.Top="272" x:Name="kinectSensorChooser1" Width="328" Loaded="kinectSensorChooser1_Loaded" />
+        <TextBlock x:Name="tbTime" FontSize="65" Width="640" TextAlignment="Center" Foreground="White" Height="210" Canvas.Top="480" ><Run Language="en-gb" Text=""/></TextBlock>
+        <TextBlock x:Name="motivation" FontSize="45" Width="366" Canvas.Left="687" Height="478" Canvas.Top="211" ><Run Language="en-gb" Text=""/></TextBlock>
+        <TextBlock x:Name="percent" FontSize="65" Foreground="#7030A0" Width="316" Canvas.Left="683" Height="170" Canvas.Top="16" ><Run Language="en-gb" Text=""/></TextBlock>
+        <Button Content="LEFT ARM" FontSize="30" Height="48" Canvas.Left="1058" Canvas.Top="15" Width="204" Click="leftArmButtonClick"/>
+        <Button Content="RIGHT ARM" FontSize="30" Height="48" Canvas.Left="1058" Canvas.Top="72" Width="204" Click="rightArmButtonClick"/>
+        <Button Content="LEFT LEG" FontSize="30" Height="48" Canvas.Left="1058" Canvas.Top="130" Width="204" Click="leftLegButtonClick"/>
+        <Button Content="RIGHT LEG" FontSize="30" Height="48" Canvas.Left="1058" Canvas.Top="188" Width="204" Click="rightLegButtonClick"/>
+        <Button Content="SEATED RIGHT&#xD;&#xA;        ARM" HorizontalContentAlignment="Center" FontSize="30" Height="88" Canvas.Left="1058" Canvas.Top="245" Width="204" Click="seatedRightArmButtonClick"/>
+        <Button Content="SEATED LEFT&#xA;      ARM" HorizontalContentAlignment="Center" FontSize="30" Height="88" Canvas.Left="1058" Canvas.Top="344" Width="204" Click="seatedLeftArmButtonClick"/>
+        <Grid Width="363" Height="325" Canvas.Left="755" Canvas.Top="272">
+            <MediaElement  x:Name="Instructional_Video_Player" Width="578" Height ="325" LoadedBehavior="Manual" Stretch="UniformToFill" Opacity="1"
+                  Source = "C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Instructional Videos\leftArmMov.mp4" Canvas.Left="840" Canvas.Top="370" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </Grid>
+    </Canvas>
+</Window>

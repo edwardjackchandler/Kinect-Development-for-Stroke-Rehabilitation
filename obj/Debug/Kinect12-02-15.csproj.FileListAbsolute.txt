@@ -1,0 +1,45 @@
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\bin\Debug\Kinect12-02-15.exe.config
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\bin\Debug\Kinect12-02-15.exe
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\bin\Debug\Kinect12-02-15.pdb
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\bin\Debug\Microsoft.Expression.Drawing.dll
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\obj\Debug\Kinect12-02-15.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\obj\Debug\MainWindow.baml
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\obj\Debug\MainWindow.g.cs
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\obj\Debug\App.g.cs
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\obj\Debug\Kinect12-02-15_MarkupCompile.cache
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\obj\Debug\Kinect12-02-15.g.resources
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\obj\Debug\Kinect12_02_15.Properties.Resources.resources
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\obj\Debug\Kinect12-02-15.csproj.GenerateResource.Cache
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\obj\Debug\Kinect12-02-15.exe
+c:\users\jack\documents\visual studio 2012\Projects\Kinect12-02-15\Kinect12-02-15\obj\Debug\Kinect12-02-15.pdb
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Kinect12-02-15.exe.config
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\obj\Debug\Kinect12-02-15.exe
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\obj\Debug\Kinect12-02-15.pdb
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Kinect12-02-15.exe
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Kinect12-02-15.pdb
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\obj\Debug\Kinect12-02-15.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\obj\Debug\MainWindow.baml
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\obj\Debug\MainWindow.g.cs
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\obj\Debug\App.g.cs
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\obj\Debug\Kinect12-02-15_MarkupCompile.cache
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\obj\Debug\Kinect12-02-15.g.resources
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\obj\Debug\Kinect12_02_15.Properties.Resources.resources
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\obj\Debug\Kinect12-02-15.csproj.GenerateResource.Cache
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Joint Samples\leftFoot.txt
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\obj\Debug\Kinect12-02-15_Content.g.cs
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Joint Samples\leftHand.txt
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Joint Samples\rightFoot.txt
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Joint Samples\rightHand.txt
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Joint Samples\seatedLeftHand.txt
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Joint Samples\seatedRightHand.txt
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Instructional Videos\leftLegMov.mp4
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Instructional Videos\leftArmMov.mp4
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Instructional Videos\rightArmMov.mp4
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Instructional Videos\rightLegMov.mp4
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Instructional Videos\seatedLeftArmMov.mp4
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\Kinect15-04-15\Kinect12-02-15\bin\Debug\Instructional Videos\seatedRightArmMov.mp4
